@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\sugar\source\repos\job\threads_1\threads_1\insertionsorter.h(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sugar\source\repos\job\threads_1\threads_1\insertionsorter.h(33): message : while compiling class template member function 'void InsertionSorter<int>::sort(std::vector<int,std::allocator<int>>)'
+C:\Users\sugar\source\repos\job\threads_1\threads_1\main.cpp(90): message : see reference to function template instantiation 'void InsertionSorter<int>::sort(std::vector<int,std::allocator<int>>)' being compiled
+C:\Users\sugar\source\repos\job\threads_1\threads_1\main.cpp(89): message : see reference to class template instantiation 'InsertionSorter<int>' being compiled
+  threads_1.vcxproj -> C:\Users\sugar\source\repos\job\threads_1\Debug\threads_1.exe
